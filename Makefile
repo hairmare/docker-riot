@@ -1,7 +1,6 @@
 .DEFAULT_GOAL := help
 
 IMAGE_NAME			:= keachi/riot
-IMAGE_DESCRIPTION	:= "Riot.im Webapplication"
 SHELL				:= /bin/sh
 
 SCMD := $(shell \
